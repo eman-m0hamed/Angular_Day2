@@ -1,0 +1,4 @@
+footer{
+  overflow: hidden;
+  background-color: var(--main-color) !important;
+}
